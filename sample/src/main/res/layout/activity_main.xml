@@ -75,4 +75,10 @@
 
     </RadioGroup>
 
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="exit" />
+
 </android.support.design.widget.CoordinatorLayout>
